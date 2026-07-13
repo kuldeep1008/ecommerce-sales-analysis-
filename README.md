@@ -28,7 +28,7 @@ Analysis of 5,000 e-commerce transactions across 10 countries for 2023.
 - `charts/` — All visualisations
 
 ## Charts
-![Revenue by Country](ecommerce_project/charts)
+![Revenue by Country](ecommerce_project/charts/chart1_revenue_by_country.png)
 ![Top Products](charts/chart2_top_products.png)
 ![Monthly Trend](charts/chart3_monthly_trend.png)
 ![Top Customers](charts/chart4_top_customers.png)
