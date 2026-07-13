@@ -1,0 +1,8 @@
+Total Revenue: £9,225,145.22
+Total Orders: 4822
+Total Customers: 400
+Avg Order Value: £1,913.14
+Best Country: United Kingdom
+Best Product: Vintage Mug
+Best Month Revenue: £855,367.16
+Top Customer Revenue: £54,026.11
